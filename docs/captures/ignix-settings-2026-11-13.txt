@@ -1,0 +1,13 @@
+# IGNIX mouse settings read on 2026-11-13T13:15:09Z with build/ignix-probe --read (device 0xAE, firmware 0x0104)
+  attempt 1: mouse didn't report ready
+0x0B (8 bytes): 0b 08 01 04 41 ae 22 ae
+  attempt 1: mouse didn't report ready
+0x04 (56 bytes): 04 38 00 01 3f 00 00 b0 60 10 c0 40 30 00 00 04 09 0e 12 1f 75 00 00 02 ff 00 00 00 ff 00 00 00 ff ff ff 00 00 ff ff ff 00 ff ff 40 00 ff ff ff 02 10 88 00 00 00 00 00
+  attempt 1: mouse didn't report ready
+0x05 (15 bytes): 05 0f 00 03 a8 00 ff 00 01 04 01 af 00 00 00
+  attempt 1: mouse didn't report ready
+0x06 (9 bytes): 06 09 01 fe 00 00 00 00 00
+  attempt 1: mouse didn't report ready
+0x08 (59 bytes): 08 3b 02 00 00 03 00 00 04 00 00 05 00 00 06 00 00 00 00 00 00 00 00 00 00 00 0d 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 09 00 00 0a 00 00 00 34 00
+  attempt 1: mouse didn't report ready
+0x0C (10 bytes): 0c 0a 01 fe 05 fa 00 00 00 00
